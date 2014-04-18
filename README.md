@@ -8,6 +8,8 @@ Iranian Cypherpunks website repository
 ---
 وبسایت
 https://ircypherpunks.org
+
 --
-کانال چت irc
-#ircypherpunks روی سرور OFTC
+
+گانال چت IRC
+```#ircypherpunks``` روی سرور [OFTC](https://oftc.net)
